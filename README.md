@@ -1,5 +1,5 @@
 <p><img src="https://avatars0.githubusercontent.com/u/64917279?s=460&u=204098bf2384925bb779ca227741663d56eae53b&v=4" alt="" title="" width="90" height="90" align="left" style="margin: 0px 20px;" /></p>
-<h2>OSI102-EXERCISES-V5</h2>
+<h2>OSI102-EXERCISES-V51</h2>
 <h4>Welcome to TRADECRAFT's OSI102-EXERCISES-V5 Repository!</h4>
 <p>To access the course's Jupyter Notebook exercise files, you have three options:</p>
 <ol>
